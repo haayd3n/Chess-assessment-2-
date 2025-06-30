@@ -1,5 +1,7 @@
 # Game Instructions
 
+Reference video: https://www.youtube.com/watch?v=OpL0Gcfn4B4&t=3804s
+
 # Chess-assessment
 
 The chess game has both an player vs player option and a player vs AI option
